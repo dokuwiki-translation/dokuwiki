@@ -1,21 +1,8 @@
 <?php
+
 /**
- * Germanlanguage file
- *
- * @author Michael Klier <chi@chimeric.de>
- * @author Leo Moll <leo@yeasoft.com>
- * @author Florian Anderiasch <fa@art-core.org>
- * @author Robin Kluth <commi1993@gmail.com>
- * @author Arne Pelka <mail@arnepelka.de>
- * @author Andreas Gohr <andi@splitbrain.org>
- * @author Dirk Einecke <dirk@dirkeinecke.de>
- * @author Blitzi94@gmx.de
- * @author Robert Bogenschneider <robog@GMX.de>
- * @author Robert Bogenschneider <robog@gmx.de>
- * @author Niels Lange <niels@boldencursief.nl>
- * @author Christian Wichmann <nospam@zone0.de>
- * @author Paul Lachewsky <kaeptn.haddock@gmail.com>
- * @author Pierre Corell <info@joomla-praxis.de>
+ * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ * 
  */
 $lang['menu']                  = 'Seiten wieder herstellen';
 $lang['filter']                = 'Nach betroffenen Seiten suchen';
