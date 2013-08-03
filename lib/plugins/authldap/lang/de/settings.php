@@ -1,9 +1,8 @@
 <?php
+
 /**
- * German language file
- *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author Matthias Schulte <dokuwiki@lupo49.de>
+ * 
  */
 $lang['server']                = 'Adresse zum LDAP-Server. Entweder als Hostname (<code>localhost</code>) oder als FQDN (<code>ldap://server.tld:389</code>).';
 $lang['port']                  = 'Port des LDAP-Servers, falls kein Port angegeben wurde.';
@@ -14,6 +13,7 @@ $lang['groupfilter']           = 'LDAP-Filter, um die Benutzergruppen zu suchen.
 $lang['version']               = 'Zu verwendende Protokollversion von LDAP.';
 $lang['starttls']              = 'Verbindung über TLS aufbauen?';
 $lang['referrals']             = 'Weiterverfolgen von LDAP-Referrals (Verweise)?';
+$lang['deref']                 = 'test';
 $lang['binddn']                = 'DN eines optionalen Benutzers, wenn der anonyme Zugriff nicht ausreichend ist. Zum Beispiel: <code>cn=admin, dc=my, dc=home</code>.';
 $lang['bindpw']                = 'Passwort des angegebenen Benutzers.';
 $lang['userscope']             = 'Die Suchweite nach Benutzeraccounts.';
